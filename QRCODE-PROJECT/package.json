@@ -1,0 +1,16 @@
+{
+  "name": "qrcode-project",
+  "version": "1.0.0",
+  "description": "generates qr code for the url entered",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Crystal Shadow",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "qr-image": "^3.2.0"
+  }
+}

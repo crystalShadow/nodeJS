@@ -1,0 +1,17 @@
+{
+  "name": "getting-started-with-npm",
+  "version": "1.0.0",
+  "description": "getting started with npm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Crystal Shadow",
+  "license": "ISC",
+  "dependencies": {
+    "sillyname": "^0.1.0",
+    "superhero": "^2.13.7",
+    "superheroes": "^3.0.0"
+  }
+}
